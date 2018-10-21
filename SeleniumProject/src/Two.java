@@ -1,0 +1,9 @@
+import java.util.StringTokenizer;
+
+public class Two {
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
+
+}
